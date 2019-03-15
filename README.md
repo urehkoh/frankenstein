@@ -4,7 +4,6 @@
 
 <html>
 <head>
-<title>My page</title>
 <script type="text/javascript" src="https://github.com/urehkoh/frankenstein/blob/master/wgo/wgo.min.js"></script>
 <script type="text/javascript" src="https://github.com/urehkoh/frankenstein/blob/master/wgo/wgo.player.min.js"></script>
 <link type="text/css" href="https://github.com/urehkoh/frankenstein/blob/master/wgo/wgo.player.css" rel="stylesheet" />
