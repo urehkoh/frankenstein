@@ -5,7 +5,7 @@
   <head>
     <script type="text/javascript" src="https://github.com/urehkoh/frankenstein/blob/master/wgo/wgo.min.js"></script>
     <script type="text/javascript" src="https://github.com/urehkoh/frankenstein/blob/master/wgo/wgo.player.min.js"></script>
-    <link type="text/css" href="https://github.com/urehkoh/frankenstein/blob/master/wgo/wgo.player.css" rel="stylesheet" /link>
+    <link type="text/css" href="https://github.com/urehkoh/frankenstein/blob/master/wgo/wgo.player.css" rel="stylesheet" />
   </head>
   <body>
     <div data-wgo="https://github.com/urehkoh/frankenstein/blob/master/game01.sgf" style="width: 700px">
